@@ -2,19 +2,31 @@
 <CodeLite_Workspace Name="Wokspace1" Database="" Version="10000">
   <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
   <Project Name="Exercise1" Path="Exercise1/Exercise1.project" Active="No"/>
-  <Project Name="Exercise2" Path="Exercise2/Exercise2.project" Active="Yes"/>
+  <Project Name="Exercise2" Path="Exercise2/Exercise2.project" Active="No"/>
+  <Project Name="Exercise3" Path="Exercise3/Exercise3.project" Active="No"/>
+  <Project Name="Exervise4" Path="Exervise4/Exervise4.project" Active="No"/>
+  <Project Name="Exercise5" Path="Exercise5/Exercise5.project" Active="No"/>
+  <Project Name="Exercise6" Path="Exercise6/Exercise6.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="FirstProgram" ConfigName="Debug"/>
       <Project Name="Exercise1" ConfigName="Debug"/>
       <Project Name="Exercise2" ConfigName="Debug"/>
+      <Project Name="Exercise3" ConfigName="Debug"/>
+      <Project Name="Exervise4" ConfigName="Debug"/>
+      <Project Name="Exercise5" ConfigName="Debug"/>
+      <Project Name="Exercise6" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="FirstProgram" ConfigName="Release"/>
       <Project Name="Exercise1" ConfigName="Release"/>
       <Project Name="Exercise2" ConfigName="Release"/>
+      <Project Name="Exercise3" ConfigName="Release"/>
+      <Project Name="Exervise4" ConfigName="Release"/>
+      <Project Name="Exercise5" ConfigName="Release"/>
+      <Project Name="Exercise6" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -4,9 +4,9 @@
   <wxString Value="/Users/halefcaetano/Desktop/Beginning-C---Programming---From-Beginner-to-Beyond---Udemy/Wokspace1/Wokspace1.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/Users/halefcaetano/Desktop/Beginning-C---Programming---From-Beginner-to-Beyond---Udemy/Wokspace1/Exercise1/main.cpp" Name="FileName"/>
+      <wxString Value="/Users/halefcaetano/Desktop/Beginning-C---Programming---From-Beginner-to-Beyond---Udemy/Wokspace1/Exercise6/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="36" Name="CurrentLine"/>
+      <int Value="49" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
