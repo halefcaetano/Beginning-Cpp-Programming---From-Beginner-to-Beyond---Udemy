@@ -6,7 +6,9 @@
   <Project Name="Exercise3" Path="Exercise3/Exercise3.project" Active="No"/>
   <Project Name="Exervise4" Path="Exervise4/Exervise4.project" Active="No"/>
   <Project Name="Exercise5" Path="Exercise5/Exercise5.project" Active="No"/>
-  <Project Name="Exercise6" Path="Exercise6/Exercise6.project" Active="Yes"/>
+  <Project Name="Exercise6" Path="Exercise6/Exercise6.project" Active="No"/>
+  <Project Name="Exercise6" Path="Exercise6/Exercise6.project" Active="No"/>
+  <Project Name="Exercise7" Path="Exercise7/Exercise7.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -17,6 +19,8 @@
       <Project Name="Exervise4" ConfigName="Debug"/>
       <Project Name="Exercise5" ConfigName="Debug"/>
       <Project Name="Exercise6" ConfigName="Debug"/>
+      <Project Name="Exercise6" ConfigName="Debug"/>
+      <Project Name="Exercise7" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -27,6 +31,8 @@
       <Project Name="Exervise4" ConfigName="Release"/>
       <Project Name="Exercise5" ConfigName="Release"/>
       <Project Name="Exercise6" ConfigName="Release"/>
+      <Project Name="Exercise6" ConfigName="Release"/>
+      <Project Name="Exercise7" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

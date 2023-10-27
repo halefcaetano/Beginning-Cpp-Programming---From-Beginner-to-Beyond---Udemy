@@ -3,12 +3,12 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=Exercise6
+ProjectName            :=Exercise7
 ConfigurationName      :=Debug
 WorkspaceConfiguration :=Debug
 WorkspacePath          :=/Users/halefcaetano/Desktop/Beginning-C---Programming---From-Beginner-to-Beyond---Udemy/Wokspace1
-ProjectPath            :=/Users/halefcaetano/Desktop/Beginning-C---Programming---From-Beginner-to-Beyond---Udemy/Wokspace1/Exercise6
-IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Exercise6
+ProjectPath            :=/Users/halefcaetano/Desktop/Beginning-C---Programming---From-Beginner-to-Beyond---Udemy/Wokspace1/Exercise7
+IntermediateDirectory  :=../build-$(WorkspaceConfiguration)/Exercise7
 OutDir                 :=$(IntermediateDirectory)
 CurrentFileName        :=
 CurrentFilePath        :=
@@ -94,7 +94,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp $(IntermediateDirectory)/main.cpp$(DependSuffix)
-	$(CXX) $(IncludePCH) $(SourceSwitch) "/Users/halefcaetano/Desktop/Beginning-C---Programming---From-Beginner-to-Beyond---Udemy/Wokspace1/Exercise6/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "/Users/halefcaetano/Desktop/Beginning-C---Programming---From-Beginner-to-Beyond---Udemy/Wokspace1/Exercise7/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(DependSuffix): main.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/main.cpp$(DependSuffix) -MM main.cpp
 
